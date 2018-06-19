@@ -73,7 +73,36 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+#theme: landscape
+theme: aath
+
+# highlight
+## line_number
+#highlight:
+#  line_number: false
+
+# Comment
+## disqus
+## livere
+#disqus_shortname: your_disqus_shortname
+#livere_uid: your_livere_uid
+
+# favicon
+favicon: /favicon.ico
+
+# Aside
+## search
+## avatar
+## aside-description
+## links
+search: true
+avatar: http://olnzpdi2u.bkt.clouddn.com/avatar.jpg
+aside-description: aside-description
+links:
+  百度: https://www.baidu.com/
+  谷歌: https://www.google.com/
+  知乎: https://www.zhihu.com/
+
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
