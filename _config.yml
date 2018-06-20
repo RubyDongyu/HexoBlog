@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
+title: 代码阅读
+subtitle: read the fucking code
 description:
 keywords:
-author: John Doe
+author: Ruby Dongyu
 language: zh-CN
 timezone: Asia/Shanghai
 
@@ -74,7 +74,8 @@ pagination_dir: page
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 #theme: landscape
-theme: aath
+#theme: aath
+theme: BlueLake
 
 # highlight
 ## line_number
